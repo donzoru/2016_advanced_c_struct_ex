@@ -1,5 +1,4 @@
 #include<iostream>
-#include<cstring>
 using namespace std;
 typedef struct li{
     int id,de;
