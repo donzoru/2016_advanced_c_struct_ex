@@ -13,6 +13,6 @@ int main()
         cin>>a.id>>a.na>>a.s>>a.c>>a.q>>a.de;
         if(a.de<m) {m=a.de; t=a;}
     }
-    cout<<a.id<<' '<<a.na<<' '<<a.s<<' '<<a.c<<' '<<a.q<<' '<<a.de<<endl;
+    cout<<t.id<<' '<<t.na<<' '<<t.s<<' '<<t.c<<' '<<t.q<<' '<<t.de<<endl;
     return 0;
 }
